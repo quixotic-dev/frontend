@@ -2,7 +2,7 @@ The Quix frontend is built on [Next.js](https://nextjs.org/).
 
 ## Getting Started
 
-First, configure the frontend to connect to the Quix backend. All configuration settings are stored in `/shared/config.ts`.
+First, configure the frontend to connect to the [Quix backend](https://github.com/quixotic-dev/backend). All configuration settings are stored in `/shared/config.ts`.
 
 Initially, the only settings that need to be updated are the `BACKEND_URL` and `BACKEND_TOKEN`, though you'll likely want to eventually configure the frontend to use the shared Seaport deployment (or your own deployment).
 
